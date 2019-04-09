@@ -9,3 +9,8 @@
     font-weight: 100;
     font-style: normal;
 }
+
+.sinhala{
+  font:normal 14px Mi_Nilu;line-height:1.6em;margin:0 0 0.75em;
+  font-family:'Mi_Nilu';
+}
