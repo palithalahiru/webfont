@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'FMMalithi';
+    src: url('FMMalithix.eot');
+    src: url('FMMalithix.eot?#iefix') format('embedded-opentype'),
+        url('FMMalithix.woff2') format('woff2'),
+        url('FMMalithix.woff') format('woff'),
+        url('FMMalithix.ttf') format('truetype'),
+        url('FMMalithix.svg#FMMalithix') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.sinhala{
+  font:normal 14px FMMalithi;line-height:1.6em;margin:0 0 0.75em;
+  font-family: 'FMMalithi';
+}
