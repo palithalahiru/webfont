@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Mi_Nilu';
+    src: url('Mi_Sarala.eot');
+    src: url('Mi_Sarala.eot?#iefix') format('embedded-opentype'),
+        url('Mi_Sarala.woff2') format('woff2'),
+        url('Mi_Sarala.woff') format('woff'),
+        url('Mi_Sarala.ttf') format('truetype'),
+        url('Mi_Sarala.svg#Mi_Sarala.') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
