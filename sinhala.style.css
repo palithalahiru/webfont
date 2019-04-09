@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Noto Sans Sinhala UI';
+    src: url('NotoSansSinhalaUI-Regular.eot');
+    src: url('NotoSansSinhalaUI-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSinhalaUI-Regular.woff2') format('woff2'),
+        url('NotoSansSinhalaUI-Regular.woff') format('woff'),
+        url('NotoSansSinhalaUI-Regular.ttf') format('truetype'),
+        url('NotoSansSinhalaUI-Regular.svg#NotoSansSinhalaUI-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dhananjayaweb';
+    src: url('Dhananjayaweb.eot');
+    src: url('Dhananjayaweb.eot?#iefix') format('embedded-opentype'),
+        url('Dhananjayaweb.woff2') format('woff2'),
+        url('Dhananjayaweb.woff') format('woff'),
+        url('Dhananjayaweb.ttf') format('truetype'),
+        url('Dhananjayaweb.svg#Dhananjayaweb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.sinhala{
+  font-family:Noto Sans Sinhala UI,Dhananjayaweb;
+}
