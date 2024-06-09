@@ -4,7 +4,7 @@
 
 ```markdown
 <!-- Sinhala WEBfont -->
-<link rel="stylesheet" href="https://wanirmal.github.io/webfont/sinhala.style.css" />
+<link rel="stylesheet" href="https://palithalahiru.github.io/webfont/sinhala.style.css" />
 ```
 
 
